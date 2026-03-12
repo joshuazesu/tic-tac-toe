@@ -16,7 +16,7 @@ This is my first GitHub project - just a fun way to learn and practice.
 - **Draw detection** — *knows when it's a tie*
 - **Reset button** — *start a new game anytime*
 
-## 🚀
+## 🚀 Getting Started
 To run this project locally:
 
 1. Clone the repository
